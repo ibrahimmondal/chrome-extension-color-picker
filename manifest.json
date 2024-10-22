@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "color picker",
+    "description": "this is my first extensoin",
+    "version": "1.0",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "icon.png"
+    }
+  }
